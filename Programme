@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=2.0" />
+  <title>La Parole Commune</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <img src="logo.png" alt="Logo La Parole Commune" class="logo" />
+    <nav>
+      <ul>
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="Programme.html">Accueil</a></li>
+        <li><a href="actualites.html">Actualités</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" id="hero">
+      <h1></h1><img src="logo.png" alt="Logo La Parole Commune" class="logo" /></h1>
+      <h1>LA PAROLE COMMUNE<br>
+      Notre programme</h1> 
+      <p>Ce programme est une base évolutive, construite avec les citoyens et pour les citoyens. <br>
+      Il est ouvert à la discussion, à l’enrichissement et à l’action collective.</p>
+    </section>
+
+    <section class="about" id="about">
+      <h2>Principes fondateurs</h2>
+      <p>- De l’exemplarité, <br>
+      - De la transparence, <br>
+      - Du bon sens, <br>
+      - De l’écoute et du respect, <br> 
+      - De la solidarité,  <br>
+      - De l’engagement citoyen.  <br><br>
+      Nous croyons en une France qui rassemble et qui agit avec cœur.</p>
+      
+    </section>
+    
+    <section class="about" id="about">
+      <h2>Un engagement d’amour et de responsabilité </h2>
+      <p>
+      Nous aimons la France. Ce mouvement s’adresse à celles et ceux qui croient encore en ce pays, qui veulent le voir debout et uni. <br>
+      Tous les amoureux de la France sont les bienvenus. <br>
+      Mais dans les moments difficiles, l’effort doit être partagé par tous et chacun est appelé à faire sa part, selon ses capacités : <br><br>
+      - Les citoyens ordinaires <br>
+      - Les décideurs <br>
+      - Les grandes entreprises <br>
+      - Les bénéficiaires des plus hauts revenus  <br><br>
+      Nous refusons le chantage à la fuite des capitaux. La France est notre maison commune : ceux qui y réussissent doivent contribuer à la reconstruire. <br>
+      Nous refusons l’assistanat. La solidarité oui mais l’assistanat non : ceux qui bénéficient de la solidarité doivent participer selon ses capacités. <br>
+      Riches, puissants, responsables et peuple : chacun doit faire sa part pour l’avenir commun. <br><br>
+      - Charte de solidarité nationale <br>
+      - Contribution exceptionnelle de solidarité <br>
+      - Incitations à l’investissement local <br>
+      - Label “Entreprise engagée pour la France” 
+      </p>
+    </section>
+    
+    <section class="about" id="about">
+      <h2>Institutions responsables </h2>
+      <p>
+      - Audit annuel des dépenses publiques et publication sans filtre des résultats <br>
+      - Réduction des frais de représentation et des doublons administratifs 
+      </p>
+    </section>
+    
+    <section class="about" id="about">
+      <h2>Démocratie participative</h2>
+      <p>
+      - Référendum d’initiative citoyenne simplifié <br>
+      - Plateforme numérique d’écoute citoyenne <br>
+      - Possibilité pour chaque citoyen imposé d’allouer une partie de son impôt sur des sujets qui lui importent <br>
+      - Possibilité pour chaque citoyen et chaque entreprise de donner plus et valorisation de cet engagement (Label “Entreprise engagée pour la France”) 
+      </p>
+      
+    </section>   
+    
+    <section class="about" id="about">
+      <h2>Solidarité active </h2>
+      <p>
+      - Actions citoyennes solidaires pour les bénéficiaires d’aides sociales : aide aux abords des écoles, entretien des espaces publics des jardins partagés, soutien aux associations <br>
+      - Accompagnement des personnes âgées et des plus fragiles <br>
+      - Valorisation de l’engagement local 
+      </p>
+    </section>     
+    
+    <section class="about" id="about">
+      <h2>Écologie et transition </h2>
+      <p>
+      - Plan “Commune verte” : jardins partagés, réduction des déchets <br>
+      - Sobriété énergétique : rénovation des bâtiments publics 
+      </p>
+    </section>    
+    
+    <section class="about" id="about">      
+      <h2>Fiscalité équitable </h2>
+      <p>
+      - Suppression des niches fiscales pour les grandes entreprises à hauts bénéfices <br>
+      - Réorientation des aides vers les PME locales <br>
+      - Transparence fiscale : publication annuelle des niches et de leur coût 
+      </p>
+    </section>
+
+    <section class="about" id="about">      
+      <h2>Éducation et citoyenneté</h2>
+      <p>
+      - Formation à la démocratie dès l’école 
+      - Programme “Jeunes engagés” pour les 16-25 ans 
+      </p>
+    </section>
+
+  </main>
+    <footer>
+    <p>© 2025 La Parole Commune — Tous droits réservés</p>
+  </footer>
+</body>
+</html>
